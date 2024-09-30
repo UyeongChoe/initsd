@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#hello
 SDCARD_PATH=/media/user/bootfs
 CONFIG_TXT=config.CONFIGTXT
 CMDLINE_TXT=cmdline.txt
